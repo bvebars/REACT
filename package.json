@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvebars/REACT.git"
+  },
+  "author": "Vyacheslav B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvebars/REACT/issues"
+  },
+  "homepage": "https://github.com/bvebars/REACT#readme"
+}
