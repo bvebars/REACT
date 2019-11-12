@@ -1,22 +1,15 @@
+
 .App {
+  margin: 0 auto;
+  display: grid;
+
+  grid-template-areas: "header header header" "content content navbar";
+  grid-template-rows: 200px 1fr;
+  /*grid-template-columns: 10px 50fr;*/
+  grid-gap: 10px;
+
+  /*background: linear-gradient(90deg, #5041b2 0%, #7969e6 100%);*/
+
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
-}

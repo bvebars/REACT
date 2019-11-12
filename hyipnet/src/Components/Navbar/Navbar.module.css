@@ -1,0 +1,16 @@
+.navbar {
+    grid-area: navbar;
+    padding: 20px;
+    background: linear-gradient(90deg, #5041b2 0%, #7969e6 100%);
+}
+
+.navbar h1 {
+    color: #FFF;
+}
+
+.navbar p {
+    color: #FFF;
+}
+
+
+

@@ -1,0 +1,10 @@
+.content {
+    grid-area: content;
+    padding: 20px;
+    background: linear-gradient(90deg, #5041b2 0%, #7969e6 100%);
+}
+
+.content h1{
+    color: #FFF;
+}
+
